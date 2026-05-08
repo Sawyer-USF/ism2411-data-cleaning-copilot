@@ -1,0 +1,10 @@
+order_id,product_name,category,price,quantity,sale_date
+1001,Wireless Mouse,Electronics,25.99,2,2026-01-03
+1002,USB-C Cable,Electronics,12.5,5,2026-01-04
+1003,Office Chair,Furniture,16.88,1,2026-01-05
+1006,Water Bottle,Lifestyle,16.88,2,2026-01-08
+1007,Monitor Stand,Furniture,34.99,2,2026-01-09
+1008,Pen Set,Office Supplies,7.25,10,2026-01-10
+1009,Keyboard,Electronics,45.0,0,2026-01-11
+1010,Planner,Office Supplies,15.0,4,2026-01-12
+1011,Coffee Mug,Lifestyle,8.99,3,2026-01-13

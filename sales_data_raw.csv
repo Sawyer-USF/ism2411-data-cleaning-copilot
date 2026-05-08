@@ -1,0 +1,13 @@
+Order ID, Product Name ,Category , Price , Quantity ,Sale Date
+1001,  Wireless Mouse  , Electronics , 25.99 , 2 ,2026-01-03
+1002,USB-C Cable, Electronics, 12.50, 5,2026-01-04
+1003, Office Chair , Furniture , , 1 ,2026-01-05
+1004,Notebook, Office Supplies, -4.99, 3,2026-01-06
+1005, Desk Lamp  , Furniture, 18.75, -1,2026-01-07
+1006, Water Bottle, Lifestyle , nineteen, 2,2026-01-08
+1007, Monitor Stand , Furniture , 34.99, ,2026-01-09
+1008, Pen Set , Office Supplies , 7.25, 10,2026-01-10
+1009,  Keyboard,Electronics, 45.00, 0,2026-01-11
+1010,Planner  , Office Supplies, 15.00 , 4 ,2026-01-12
+1011, Coffee Mug , Lifestyle, 8.99, 3,2026-01-13
+1012,Headphones , Electronics , 79.99, -2,2026-01-14
